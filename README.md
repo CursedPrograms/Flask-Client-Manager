@@ -1,10 +1,4 @@
 # Flask-Client-Manager
-Data Capture For Binary City
-
-Current Builds:
-
-DataCap.zip (Web Server/Deployment)[Essential]
-DataCap_win.zip (64-bit.exe)
 
 How to run:
 
