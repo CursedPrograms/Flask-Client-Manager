@@ -6,7 +6,7 @@ How to run:
 
 2.run app.py
 
-3. open browser and go to http://127.0.0.1:5000 or open datacap.exe
+3. open browser and go to http://127.0.0.1:5000
 
 Deployment Options:
 
