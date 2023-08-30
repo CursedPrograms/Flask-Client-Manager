@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  background-color: #007ab7;
+  color: white;
+  font-family: Futura, sans-serif;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}

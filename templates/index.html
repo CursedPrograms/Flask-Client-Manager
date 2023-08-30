@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Clients</title>
+  <link href="../static/styles/main.css" rel="stylesheet" type="text/css">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1>Clients</h1>
+  <form method="POST" action="/">
+    <label for="name">Name:</label>
+    <input type="text" name="name" required>
+    <label for="surname">Surname:</label>
+    <input type="text" name="surname" required>
+    <label for="email">Email:</label>
+    <input type="email" name="email" required>
+    <input type="submit" value="Add Client">
+  </form>
+  {% if clients %}
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Email</th>
+      </tr>
+      {% for client in clients %}
+        <tr>
+          <td>{{ client.name }}</td>
+          <td>{{ client.surname }}</td>
+          <td>{{ client.email }}</td>
+        </tr>
+      {% endfor %}
+    </table>
+  {% else %}
+    <p>No client(s) found.</p>
+  {% endif %}
+</body>
+</html>
