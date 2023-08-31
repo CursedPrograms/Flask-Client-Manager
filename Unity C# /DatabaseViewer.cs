@@ -67,7 +67,7 @@ public class DatabaseViewer : MonoBehaviour
     void UpdateUI(ClientData client)
     {
         uiControl.Name.text += "Name: " + client.name + "\n";
-        uiControl.Surname.text += "Surname: " + client.surname + "\n"; // Update surname text
+        uiControl.Surname.text += "Surname: " + client.surname + "\n";
         uiControl.email.text += "Email: " + client.email + "\n";
         uiControl.ClientCode.text += "Client Code: " + client.client_code + "\n";
         uiControl.ContactAmount.text += "No. of Linked Contacts: " + client.num_of_contacts + "\n";
