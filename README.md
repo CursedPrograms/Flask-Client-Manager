@@ -3,9 +3,7 @@
 How to run:
 
 1.pip install flask
-
 2.run app.py
-
 3. open browser and go to http://127.0.0.1:5000
 
 Deployment Options:
