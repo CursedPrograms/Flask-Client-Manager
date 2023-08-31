@@ -84,7 +84,7 @@ public class ClientDataListWrapper
 public class ClientData
 {
     public string name;
-    public string surname; // Add the surname field
+    public string surname;
     public string email;
     public string client_code;
     public int num_of_contacts;
