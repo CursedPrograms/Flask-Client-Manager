@@ -29,7 +29,7 @@ public class DatabaseViewer : MonoBehaviour
     void ClearText()
     {
         uiControl.Name.text = "";
-        uiControl.Surname.text = ""; // Clear the surname text as well
+        uiControl.Surname.text = ""; 
         uiControl.ClientCode.text = "";
         uiControl.ContactAmount.text = "";
         uiControl.email.text = "";
