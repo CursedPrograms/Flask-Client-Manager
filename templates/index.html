@@ -16,18 +16,23 @@
     <input type="email" name="email" required>
     <input type="submit" value="Add Client">
   </form>
+
   {% if clients %}
     <table>
       <tr>
         <th>Name</th>
         <th>Surname</th>
         <th>Email</th>
+        <th>Client Code</th>
+        <th>Number of Contacts</th>
       </tr>
       {% for client in clients %}
         <tr>
-          <td>{{ client.name }}</td>
-          <td>{{ client.surname }}</td>
-          <td>{{ client.email }}</td>
+          <td>{{ client[1] }}</td>
+          <td>{{ client[2] }}</td>
+          <td>{{ client[3] }}</td>
+          <td>{{ client[4] }}</td>
+          <td>{{ client[5] }}</td>
         </tr>
       {% endfor %}
     </table>
