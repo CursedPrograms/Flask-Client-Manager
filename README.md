@@ -57,7 +57,3 @@
 - Jinja
 
 **Note:** Data extraction from the .json file is facilitated through integration with Unity C#.
-
-## Known Issues
-
-- HTML text does not display as expected
