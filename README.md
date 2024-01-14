@@ -1,3 +1,11 @@
+<div align="center">
+  <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/>  
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
 # Flask-Client-Manager
 
 ## How to Run
