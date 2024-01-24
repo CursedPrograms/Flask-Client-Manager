@@ -81,3 +81,8 @@
 - Jinja
 
 **Note:** Data extraction from the .json file is facilitated through integration with Unity C#.
+
+<a href="https://cursed-entertainment.itch.io/" target="_blank">
+    <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
+        alt="CursedEntertainment Logo">
+</a>
