@@ -3,11 +3,6 @@
 *.json linguist-documentation=false
 *.json linguist-detectable=true
 
-*.yml linguist-vendored=false
-*.yml linguist-generated=false
-*.yml linguist-documentation=false
-*.yml linguist-detectable=true
-
 *.ini linguist-vendored=false
 *.ini linguist-generated=false
 *.ini linguist-documentation=false
