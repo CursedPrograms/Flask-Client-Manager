@@ -1,3 +1,11 @@
+  <br>
+<div align="center">
+  <a href="https://ko-fi.com/cursedentertainment">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" style="width: 20%;"/>
+  </a>
+</div>
+  <br>
+
 <a href="https://github.com/CursedPrograms/Flask-Client-Manager/actions/workflows/auto-assign.yml">
     <img class="workflow-badge workflow-success" src="https://github.com/CursedPrograms/Flask-Client-Manager/actions/workflows/auto-assign.yml/badge.svg" alt="Auto Assign Workflow">
 </a>
