@@ -38,6 +38,8 @@
 
 # Flask-Client-Manager
 
+<br>
+
 ## How to Run
 
 1. Install Flask:
@@ -48,6 +50,8 @@
 2. Run `app.py`.
 
 3. Open a web browser and go to [http://127.0.0.1:5000](http://127.0.0.1:5000).
+
+<br>
 
 ## Deployment Options
 
@@ -61,6 +65,8 @@
 - PlayStation Deployment
 - Xbox Deployment
 - Nintendo Switch Deployment
+
+<br>
 
 ## Additional Information
 
@@ -93,6 +99,8 @@
 ### Templating Engine
 
 - Jinja
+
+<br>
 
 **Note:** Data extraction from the .json file is facilitated through integration with Unity C#.
 
